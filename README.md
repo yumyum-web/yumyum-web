@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yumeth
 - 👀 I’m interested in Python, JS, Scala, ₿
-- 🌱 I’m an undergraduate in Engineering @[UOM](https://uom.lk/)
+- 🌱 I’m an undergraduate in Computer Science and Engineering at [University of Moratuwa](https://uom.lk/)
 - 💞️ I’m looking to collaborate on Anything special ✨
 - 📫 reach me through [email](mailto:w45wmk5bd@mozmail.com)
